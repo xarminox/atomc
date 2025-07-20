@@ -1,0 +1,3 @@
+/home/neo/Desktop/extend/projects/atomc/CMakeFiles/atomc.dir
+/home/neo/Desktop/extend/projects/atomc/CMakeFiles/edit_cache.dir
+/home/neo/Desktop/extend/projects/atomc/CMakeFiles/rebuild_cache.dir

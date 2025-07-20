@@ -1,0 +1,26 @@
+// print hello atomc
+
+import system
+import io
+
+function main(void) {
+    
+    io.printf("Hello, atomc!\n") // io.printf()
+
+}
+
+export main
+
+
+/*
+
+a : string = "Hello"
+b : integer = 100
+c : float = 10.0
+c : array = {1, 2, 3, 4, 5}
+
+*/
+
+
+
+

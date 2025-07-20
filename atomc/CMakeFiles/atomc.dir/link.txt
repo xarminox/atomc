@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/atomc.dir/link.d CMakeFiles/atomc.dir/src/main.cxx.o -o atomc
